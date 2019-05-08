@@ -1,3 +1,7 @@
 [submodule "lib/pngwriter"]
 	path = lib/pngwriter
 	url = https://github.com/pngwriter/pngwriter.git
+	
+[submodule "lib/mapd-core"]
+	path = lib/mapd-core
+	url = https://github.com/omnisci/mapd-core.git
